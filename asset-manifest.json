@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mojib2014/mochita-online-store/static/css/main.234014ac.chunk.css",
-    "main.js": "/mojib2014/mochita-online-store/static/js/main.77904bd3.chunk.js",
-    "main.js.map": "/mojib2014/mochita-online-store/static/js/main.77904bd3.chunk.js.map",
-    "runtime-main.js": "/mojib2014/mochita-online-store/static/js/runtime-main.9c78087f.js",
-    "runtime-main.js.map": "/mojib2014/mochita-online-store/static/js/runtime-main.9c78087f.js.map",
-    "static/js/2.4dabb219.chunk.js": "/mojib2014/mochita-online-store/static/js/2.4dabb219.chunk.js",
-    "static/js/2.4dabb219.chunk.js.map": "/mojib2014/mochita-online-store/static/js/2.4dabb219.chunk.js.map",
-    "static/js/3.15e8efac.chunk.js": "/mojib2014/mochita-online-store/static/js/3.15e8efac.chunk.js",
-    "static/js/3.15e8efac.chunk.js.map": "/mojib2014/mochita-online-store/static/js/3.15e8efac.chunk.js.map",
-    "index.html": "/mojib2014/mochita-online-store/index.html",
-    "static/css/main.234014ac.chunk.css.map": "/mojib2014/mochita-online-store/static/css/main.234014ac.chunk.css.map",
-    "static/js/2.4dabb219.chunk.js.LICENSE.txt": "/mojib2014/mochita-online-store/static/js/2.4dabb219.chunk.js.LICENSE.txt"
+    "main.css": "/mochita-online-store/static/css/main.234014ac.chunk.css",
+    "main.js": "/mochita-online-store/static/js/main.77904bd3.chunk.js",
+    "main.js.map": "/mochita-online-store/static/js/main.77904bd3.chunk.js.map",
+    "runtime-main.js": "/mochita-online-store/static/js/runtime-main.90132bb9.js",
+    "runtime-main.js.map": "/mochita-online-store/static/js/runtime-main.90132bb9.js.map",
+    "static/js/2.4dabb219.chunk.js": "/mochita-online-store/static/js/2.4dabb219.chunk.js",
+    "static/js/2.4dabb219.chunk.js.map": "/mochita-online-store/static/js/2.4dabb219.chunk.js.map",
+    "static/js/3.15e8efac.chunk.js": "/mochita-online-store/static/js/3.15e8efac.chunk.js",
+    "static/js/3.15e8efac.chunk.js.map": "/mochita-online-store/static/js/3.15e8efac.chunk.js.map",
+    "index.html": "/mochita-online-store/index.html",
+    "static/css/main.234014ac.chunk.css.map": "/mochita-online-store/static/css/main.234014ac.chunk.css.map",
+    "static/js/2.4dabb219.chunk.js.LICENSE.txt": "/mochita-online-store/static/js/2.4dabb219.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c78087f.js",
+    "static/js/runtime-main.90132bb9.js",
     "static/js/2.4dabb219.chunk.js",
     "static/css/main.234014ac.chunk.css",
     "static/js/main.77904bd3.chunk.js"
