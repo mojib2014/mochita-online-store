@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mochita-online-store/static/css/main.234014ac.chunk.css",
-    "main.js": "/mochita-online-store/static/js/main.77904bd3.chunk.js",
-    "main.js.map": "/mochita-online-store/static/js/main.77904bd3.chunk.js.map",
-    "runtime-main.js": "/mochita-online-store/static/js/runtime-main.90132bb9.js",
-    "runtime-main.js.map": "/mochita-online-store/static/js/runtime-main.90132bb9.js.map",
-    "static/js/2.4dabb219.chunk.js": "/mochita-online-store/static/js/2.4dabb219.chunk.js",
-    "static/js/2.4dabb219.chunk.js.map": "/mochita-online-store/static/js/2.4dabb219.chunk.js.map",
-    "static/js/3.15e8efac.chunk.js": "/mochita-online-store/static/js/3.15e8efac.chunk.js",
-    "static/js/3.15e8efac.chunk.js.map": "/mochita-online-store/static/js/3.15e8efac.chunk.js.map",
+    "main.js": "/mochita-online-store/static/js/main.46ba438b.chunk.js",
+    "main.js.map": "/mochita-online-store/static/js/main.46ba438b.chunk.js.map",
+    "runtime-main.js": "/mochita-online-store/static/js/runtime-main.9fddec7c.js",
+    "runtime-main.js.map": "/mochita-online-store/static/js/runtime-main.9fddec7c.js.map",
+    "static/js/2.25e0e4c1.chunk.js": "/mochita-online-store/static/js/2.25e0e4c1.chunk.js",
+    "static/js/2.25e0e4c1.chunk.js.map": "/mochita-online-store/static/js/2.25e0e4c1.chunk.js.map",
+    "static/js/3.fbe666ca.chunk.js": "/mochita-online-store/static/js/3.fbe666ca.chunk.js",
+    "static/js/3.fbe666ca.chunk.js.map": "/mochita-online-store/static/js/3.fbe666ca.chunk.js.map",
     "index.html": "/mochita-online-store/index.html",
     "static/css/main.234014ac.chunk.css.map": "/mochita-online-store/static/css/main.234014ac.chunk.css.map",
-    "static/js/2.4dabb219.chunk.js.LICENSE.txt": "/mochita-online-store/static/js/2.4dabb219.chunk.js.LICENSE.txt"
+    "static/js/2.25e0e4c1.chunk.js.LICENSE.txt": "/mochita-online-store/static/js/2.25e0e4c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90132bb9.js",
-    "static/js/2.4dabb219.chunk.js",
+    "static/js/runtime-main.9fddec7c.js",
+    "static/js/2.25e0e4c1.chunk.js",
     "static/css/main.234014ac.chunk.css",
-    "static/js/main.77904bd3.chunk.js"
+    "static/js/main.46ba438b.chunk.js"
   ]
 }
