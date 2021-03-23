@@ -1,4 +1,4 @@
-import { Route, Switch } from "react-router-dom";
+import { Route, Redirect, Switch } from "react-router-dom";
 import Nabar from "../components/Nabar";
 import Cart from "../features/cart/Cart";
 import Catalog from "../features/catalog/Catalog";
@@ -63,6 +63,7 @@ function App({ state, dispatch }) {
             />
           )}
         />
+        <Redirect from="/" to="/catalog" />
       </Switch>
     </main>
   );

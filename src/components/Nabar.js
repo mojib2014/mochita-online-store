@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import cartIcon from "../icon_cart.png";
 import "./navbar.css";
 
 export default function Nabar({ itemQuantity }) {
@@ -9,14 +10,14 @@ export default function Nabar({ itemQuantity }) {
         <nav className="navbar">
           <ul>
             <li>
-              <NavLink to="/home">Home</NavLink>
+              <NavLink to="/catalog">Home</NavLink>
             </li>
             <li>
               <NavLink to="/catalog">Catalog</NavLink>
             </li>
             <li className="cart">
               <NavLink to="/cart">
-                <img src={`${__dirname}images/icon_cart.png`} alt="cart icon" />
+                <img src={cartIcon} alt="cart icon" />
                 <p className="item-quantity">
                   {itemQuantity ? itemQuantity : 0}
                 </p>
